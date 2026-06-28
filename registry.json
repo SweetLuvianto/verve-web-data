@@ -1,1 +1,1 @@
-{"schemaVersion":1,"generatedAt":"2026-06-28T09:26:50Z","games":[{"id":"table-and-tales","name":"Table & Tales","venues":[{"id":"shelter","name":"Table & Tales — Shelter","status":"open","online":true,"generatedAt":"2026-06-28T09:26:50Z","dataPath":"tt/shelter.json"}]}]}
+{"schemaVersion":1,"generatedAt":"2026-06-28T09:28:23Z","games":[{"id":"table-and-tales","name":"Table & Tales","venues":[{"id":"shelter","name":"Table & Tales — Shelter","status":"open","online":true,"generatedAt":"2026-06-28T09:28:23Z","dataPath":"tt/shelter.json"}]}]}
