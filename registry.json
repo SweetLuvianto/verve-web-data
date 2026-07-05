@@ -5,7 +5,7 @@
       "id": "table-and-tales",
       "name": "Table & Tales",
       "venues": [
-        { "id": "shelter", "name": "Table & Tales — Shelter", "region": "Shelter", "slurl": "", "hoursLabel": "", "musicLabel": "", "dataPath": "tt/shelter.json" }
+        { "id": "saint-louis-isle", "name": "Table & Tales — Saint Louis Isle", "region": "Saint Louis Isle", "slurl": "https://maps.secondlife.com/secondlife/Saint%20Louis%20Isle/239/32/501", "hoursLabel": "", "musicLabel": "", "dataPath": "tt/saint-louis-isle.json" }
       ]
     }
   ]
